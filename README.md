@@ -18,6 +18,7 @@ cd engenhos-devops
 
 É necessário instalar em sua máquina
 - [Docker Compose](https://docs.docker.com/compose/install/)
+
 Execute o comando:
 ```bash
 docker-compose up -d
