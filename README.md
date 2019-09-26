@@ -18,7 +18,7 @@ cd engenhos-devops
 
 Execute o comando:
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 
 ## Como acessar
