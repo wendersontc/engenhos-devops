@@ -9,7 +9,7 @@ git clone https://github.com/wendersontc/engenhos-devops.git
 
 Depois navegue até o diretório criado
 ```bash
-cd desafio-dbc
+cd engenho-devops
 ```
 
 ### Com Docker
