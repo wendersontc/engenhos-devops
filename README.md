@@ -9,7 +9,7 @@ git clone https://github.com/wendersontc/engenhos-devops.git
 
 Depois navegue até o diretório criado
 ```bash
-cd engenho-devops
+cd engenhos-devops
 ```
 
 ### Com Docker
