@@ -1,0 +1,30 @@
+<nav class="navbar">
+  <th>Pesquisa Tipo:</th>
+  <input class="form-control" type="text" name="search" [(ngModel)]="filter">  <!-- Input que deve ser adicionado -->
+
+  <thead>
+    <tr>
+        <button (click)="sort('DataCriacaoWorkItem')" type="button" class="btn btn-primary">Ordernar Por Data</button>
+    </tr>
+  </thead>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">WorkItemId</th>
+        <th scope="col">Titulo</th>
+        <th scope="col">Tipo</th>
+        <th scope="col">Data</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of dataSource | filter:filter;">
+        <th>{{item.Id}}</th>
+        <th>{{item.IdWorkItem}}</th>
+        <th>{{item.Titulo}}</th>
+        <th>{{item.Tipo}}</th>
+        <th>{{item.DataCriacaoWorkItem | date: 'dd/MM/yyyy'}}</th>
+    </tr>
+    </tbody>
+  </table>
+</nav>

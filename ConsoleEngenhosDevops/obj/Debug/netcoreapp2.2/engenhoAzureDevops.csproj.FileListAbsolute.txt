@@ -1,0 +1,16 @@
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.csprojAssemblyReference.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.csproj.CoreCompileInputs.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.AssemblyInfoInputs.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.AssemblyInfo.cs
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/bin/Debug/netcoreapp2.2/engenhoAzureDevops.deps.json
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/bin/Debug/netcoreapp2.2/engenhoAzureDevops.runtimeconfig.json
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/bin/Debug/netcoreapp2.2/engenhoAzureDevops.runtimeconfig.dev.json
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/bin/Debug/netcoreapp2.2/engenhoAzureDevops.dll
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/bin/Debug/netcoreapp2.2/engenhoAzureDevops.pdb
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.csprojAssemblyReference.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.csproj.CoreCompileInputs.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.AssemblyInfoInputs.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.AssemblyInfo.cs
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.dll
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/obj/Debug/netcoreapp2.2/engenhoAzureDevops.pdb
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/ConsoleEngenhosDevops/bin/Debug/netcoreapp2.2/appsettings.json

@@ -1,0 +1,11 @@
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/bin/Debug/netcoreapp3.0/engenhoAzureDevops
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/bin/Debug/netcoreapp3.0/engenhoAzureDevops.deps.json
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/bin/Debug/netcoreapp3.0/engenhoAzureDevops.runtimeconfig.json
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/bin/Debug/netcoreapp3.0/engenhoAzureDevops.runtimeconfig.dev.json
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/bin/Debug/netcoreapp3.0/engenhoAzureDevops.dll
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/bin/Debug/netcoreapp3.0/engenhoAzureDevops.pdb
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp3.0/engenhoAzureDevops.csprojAssemblyReference.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp3.0/engenhoAzureDevops.AssemblyInfoInputs.cache
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp3.0/engenhoAzureDevops.AssemblyInfo.cs
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp3.0/engenhoAzureDevops.dll
+/home/wenderson/Documentos/dotNet/engenhoAzureDevops/obj/Debug/netcoreapp3.0/engenhoAzureDevops.pdb

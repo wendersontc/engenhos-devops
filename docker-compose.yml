@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  console-engenhos:
+    image: console-azure-devops
+    build:
+      context: ./ConsoleEngenhosDevops 
+    depends_on:
+      - "db"
+  front-engenhos:
+    image: front-azure-devops
+    build: ./FrontEngenhosDevops
+    ports:
+      - "5000:80"
+    depends_on:
+      - "api-engenhos"
+  api-engenhos:
+    image: microsoft/dotnet:2.2-sdk
+    container_name: api
+    build: ./ApiEngenhosDevops
+    working_dir: /ApiEngenhosDevops
+    volumes:
+      - ./ApiEngenhosDevops:/ApiEngenhosDevops
+    ports:
+      - "9000:80"
+    command: dotnet run
+    depends_on:
+      - "db"
+
+  db:
+    image: mongo
+    ports:
+      - "3000:27017"
+ 
+
